@@ -1,3 +1,4 @@
+**Multiple entry**
 ```js
 module.exports = {
   entry: {
